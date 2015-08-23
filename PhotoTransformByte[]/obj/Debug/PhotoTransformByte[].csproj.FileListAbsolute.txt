@@ -1,0 +1,17 @@
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\PhotoTransformByte[].exe.config
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\PhotoTransformByte[].exe
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\PhotoTransformByte[].pdb
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte[].csprojResolveAssemblyReference.cache
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte__.Form1.resources
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte__.Properties.Resources.resources
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte[].csproj.GenerateResource.Cache
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte[].exe
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\obj\Debug\PhotoTransformByte[].pdb
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\EntityFramework.dll
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\EntityFramework.SqlServer.dll
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\System.Data.SQLite.dll
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\System.Data.SQLite.EF6.dll
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\System.Data.SQLite.Linq.dll
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\EntityFramework.xml
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\EntityFramework.SqlServer.xml
+E:\程序库\PhotoTransformByte[]\PhotoTransformByte[]\bin\Debug\System.Data.SQLite.xml
